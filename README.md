@@ -1,4 +1,4 @@
-### Extended Description for the Repository
+### Sales_Data_Analysis-E-Commerce_Case_Study
 
 This repository demonstrates the systematic analysis of an electronics store's sales data, focusing on various trends and insights related to sales, products, cities, and customer behavior. The data is read from a Feather file (.ftr) and processed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Below is an overview of the steps taken throughout the analysis:
 
